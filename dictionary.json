@@ -1,1 +1,1 @@
-{"name":"hc-test","display_name":"hc-test","owner":"hannahblue","auth_method":"Basic","auth_options":{},"paging_method":"Pages","paging_options":{},"tables":[{"qName":"T1"},{"qName":"T2"}],"id":"57b34550174e4a1100784f25"}
+{"name":"hc-test","display_name":"hc-test","owner":"hannahblue","auth_method":"Basic","auth_options":{},"paging_method":"Pages","paging_options":{},"tables":[{"qName":"T1"},{"qName":"T2"}],"id":"57b34550174e4a1100784f25","base_endpoint":"account"}
